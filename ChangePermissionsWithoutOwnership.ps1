@@ -1,15 +1,7 @@
-#ChangePermissions.ps1
-#By Kyle Elliott
-#kelliott@ciotech.us
-# CACLS rights are
-# F = FullControl
-# C = Change
-# R = Readonly
-# W = Write
-# You must have powershell community extensions installed prior to running 
-# These extensions require a reboot
-# The powershell extensions must match the version of powershell you're running
+#Changepermissionswithoutownership.ps1
 <#
+.Synopsis
+    This script was created to allow file permission bypass, as to prevent needing to reconfigure ownership after Changes
 .Parameter username
     Set the username you would like to grant access to
 .parameter StartingDir
@@ -20,6 +12,8 @@
     C = Change
     R = Readonly
     W = Write
+.Example
+    PS> Changepermissionswithoutownership.ps1 -username USER -StartingDir D:\users\firedUser -Permissions F
 .NOTES
     You must have powershell community extensions installed prior to running
     These extensions require a reboot
