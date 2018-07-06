@@ -9,7 +9,25 @@
 # You must have powershell community extensions installed prior to running
 # These extensions require a reboot
 # The powershell extensions must match the version of powershell you're running
-
+<#
+.Parameter username
+    Set the username you would like to grant access to
+.parameter StartingDir
+    Enter the full path of the directory you want to change access to
+.Parameter permissions
+    CACLS rights are
+    F = FullControl
+    C = Change
+    R = Readonly
+    W = Write
+.NOTES
+    You must have powershell community extensions installed prior to running
+    These extensions require a reboot
+    The powershell extensions must match the version of powershell you're running
+    Provided without any warranty and entirely as is.
+    By Kyle Elliott
+    kelliott(at)ciotech(dot)us
+#>
 {
 Param(
     [Parameter(Mandatory=$true,helpmessage="Enter the username you would like to grant access")]
