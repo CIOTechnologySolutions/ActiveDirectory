@@ -6,7 +6,7 @@
 # C = Change
 # R = Readonly
 # W = Write
-# You must have powershell community extensions installed prior to running
+# You must have powershell community extensions installed prior to running 
 # These extensions require a reboot
 # The powershell extensions must match the version of powershell you're running
 <#
