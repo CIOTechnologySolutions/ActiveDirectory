@@ -30,7 +30,6 @@ $users = Import-CSV $csv
 ForEach(
 $user in $users) {
 Set-ADUser $user.samaccountname -PasswordNeverExpires $false
-
 #set to force password change
 Set-ADUser $user.samaccountname -ChangePasswordAtLogon:$True
 }
