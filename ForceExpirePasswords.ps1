@@ -24,11 +24,12 @@ Param(
 #This is an AD script
 Import-Module ActiveDirectory
 
-#disable password never expires
-
+#Import CSV
 $users = Import-CSV $csv
+#build Variables
 ForEach(
 $user in $users) {
+#Disable never expire
 Set-ADUser $user.samaccountname -PasswordNeverExpires $false
 #set to force password change
 Set-ADUser $user.samaccountname -ChangePasswordAtLogon:$True
