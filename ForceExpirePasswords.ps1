@@ -16,24 +16,21 @@
 #>
 
 #Add parameter for CSV to be passed from PoSH
-param {
+Param(
   [Parameter(Mandatory=$true)]
   [string]$csv
-}
+)
 
 #This is an AD script
 Import-Module ActiveDirectory
 
 #disable password never expires
-Import-CSV $csv | ForEach-Object {
-$samAccountName = $_."samAccountName"
- get-aduser -Identity $sAMAccountName |
- Set-ADUser $_ -PasswordNeverExpires $false
- }
+
+$users = Import-CSV $csv
+ForEach(
+$user in $users) {
+Set-ADUser $user.samaccountname -PasswordNeverExpires $false
 
 #set to force password change
-Import-Csv $csv | ForEach-Object {
- $samAccountName = $_."samAccountName"
-Get-ADUser -Identity $samAccountName |
- Set-ADUser -ChangePasswordAtLogon:$True
+Set-ADUser $user.samaccountname -ChangePasswordAtLogon:$True
 }
