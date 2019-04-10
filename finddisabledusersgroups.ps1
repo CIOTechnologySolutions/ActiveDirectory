@@ -7,7 +7,7 @@
 .Parameter Path
   path to place CSV
 .Example
-
+ finddisabledusersgroups.ps1 -path c:\test\userdata.Csv
 .NOTES
   By Kyle Elliott
   kelliott(at)ciotech(dot)us
