@@ -14,25 +14,27 @@
   Provided as is, without warranty
   #>
 
-Param(
-  [Parameter(Mandatory=$TRUE)]
-  [string]$String
-)
+function gpo-hunt {
+  Param(
+    [Parameter(Mandatory=$TRUE)]
+    [string]$String
+  )
 
-$NearestDC = (Get-ADDomainController -Discover -NextClosestSite).Name
+  $NearestDC = (Get-ADDomainController -Discover -NextClosestSite).Name
 
-#Get a list of GPOs from the domain
-$GPOs = Get-GPO -All -Server $NearestDC | sort DisplayName
+  #Get a list of GPOs from the domain
+  $GPOs = Get-GPO -All -Server $NearestDC | sort DisplayName
 
-#Go through each Object and check its XML against $String
-Foreach ($GPO in $GPOs)  {
+  #Go through each Object and check its XML against $String
+  Foreach ($GPO in $GPOs)  {
 
   #Get Current GPO Report (XML)
-  $CurrentGPOReport = Get-GPOReport -Guid $GPO.Id -ReportType Xml -Server $NearestDC
-  If ($CurrentGPOReport -match $String)  {
-	$Output = "A Group Policy matching ""$($String)"" has been found:"
-	$Output += "- GPO Name: $($GPO.DisplayName)"
-	$Output += "- GPO Status: $($GPO.GpoStatus)"
-  }
+    $CurrentGPOReport = Get-GPOReport -Guid $GPO.Id -ReportType Xml -Server $NearestDC
+    If ($CurrentGPOReport -match $String)  {
+	     $Output = "A Group Policy matching ""$($String)"" has been found:"
+	     $Output += "- GPO Name: $($GPO.DisplayName)"
+	     $Output += "- GPO Status: $($GPO.GpoStatus)"
+     }
+   }
+   Write-Output $output
 }
-Write-Output $output
