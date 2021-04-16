@@ -1,0 +1,182 @@
+"PermissionType","ClientObjectId","ClientDisplayName","ResourceObjectId","ResourceDisplayName","Permission","ConsentType","PrincipalObjectId","PrincipalDisplayName"
+"Delegated","fc565bb6-8abd-412f-a810-1b4dad54e529","Okta Microsoft Graph Client","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","fc565bb6-8abd-412f-a810-1b4dad54e529","Okta Microsoft Graph Client","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.ReadWrite.All","AllPrincipals",,""
+"Delegated","999d92be-8b97-46d2-ada8-879bb40420ce","Partner Center Web App","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.AccessAsUser.All","AllPrincipals",,""
+"Delegated","999d92be-8b97-46d2-ada8-879bb40420ce","Partner Center Web App","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","999d92be-8b97-46d2-ada8-879bb40420ce","Partner Center Web App","19ea5615-e411-412c-9c94-47832f9fdcfc","Microsoft Partner Center","user_impersonation","AllPrincipals",,""
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","1fe372c2-edf6-46af-8b46-774ffdadc15a","Brian Wheatley"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","f5c65346-0bc7-4b83-8e03-c7262b2450fb","Juan Velasquez"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","2616b453-ccbe-4fc9-ada4-1d2fe92d612f","Emily Palcsak"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","215f519b-077e-4fe4-8940-1caaab857aad","Duy Nguyen"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","5145efb9-172d-44be-8b78-f87a905e3ffa","Andrew Pasternak"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","86c4f11b-3751-49e1-8665-c049cd9411fd","Lucas Price"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EAS.AccessAsUser.All","AllPrincipals",,""
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","AllPrincipals",,""
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","full_access_as_user","Principal","1fe372c2-edf6-46af-8b46-774ffdadc15a","Brian Wheatley"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","215f519b-077e-4fe4-8940-1caaab857aad","Duy Nguyen"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","5145efb9-172d-44be-8b78-f87a905e3ffa","Andrew Pasternak"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EAS.AccessAsUser.All","Principal","f5c65346-0bc7-4b83-8e03-c7262b2450fb","Juan Velasquez"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","f5c65346-0bc7-4b83-8e03-c7262b2450fb","Juan Velasquez"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EAS.AccessAsUser.All","Principal","2616b453-ccbe-4fc9-ada4-1d2fe92d612f","Emily Palcsak"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","2616b453-ccbe-4fc9-ada4-1d2fe92d612f","Emily Palcsak"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EAS.AccessAsUser.All","Principal","86c4f11b-3751-49e1-8665-c049cd9411fd","Lucas Price"
+"Delegated","823e4a89-c08f-4fb8-98d9-ffea3fd5f209","iOS Accounts","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","86c4f11b-3751-49e1-8665-c049cd9411fd","Lucas Price"
+"Delegated","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.AccessAsUser.All","AllPrincipals",,""
+"Delegated","942cf791-c5dd-4c4f-bc33-dcad53d7ff94","Quosal BI","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","9608b84d-bc30-4250-8600-3df6c7598cd1","Milton Disser"
+"Delegated","942cf791-c5dd-4c4f-bc33-dcad53d7ff94","Quosal BI","0eb8ce97-e8ac-4b66-9beb-b528acde5c7c","Power BI Service","Dataset.Read.All","Principal","9608b84d-bc30-4250-8600-3df6c7598cd1","Milton Disser"
+"Delegated","942cf791-c5dd-4c4f-bc33-dcad53d7ff94","Quosal BI","0eb8ce97-e8ac-4b66-9beb-b528acde5c7c","Power BI Service","Dashboard.Read.All","Principal","9608b84d-bc30-4250-8600-3df6c7598cd1","Milton Disser"
+"Delegated","942cf791-c5dd-4c4f-bc33-dcad53d7ff94","Quosal BI","0eb8ce97-e8ac-4b66-9beb-b528acde5c7c","Power BI Service","Report.Read.All","Principal","9608b84d-bc30-4250-8600-3df6c7598cd1","Milton Disser"
+"Delegated","83c16086-453a-462d-9650-962a7842c32b","Partner Incentives Experience","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","9a2c2bb8-473b-4881-ae90-530e026c78ee","Office 365 Message Encryption Portal","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read","Principal","81c39eb4-3d98-47f5-a12f-15aa03bda62e","Christian Ramos"
+"Delegated","9a2c2bb8-473b-4881-ae90-530e026c78ee","Office 365 Message Encryption Portal","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read","Principal","d801f458-653f-4bc9-b6a3-4a72aab94e68","Brad Reitmeyer"
+"Delegated","d2ca4685-b8e4-47c2-b58a-a6fe9829f94e","Microsoft Business Solutions","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","215f519b-077e-4fe4-8940-1caaab857aad","Duy Nguyen"
+"Delegated","7ad9967a-21fc-400e-8e2f-0e24265e1ee4","Duo Azure AD Sync","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.Read.All","AllPrincipals",,""
+"Delegated","7ad9967a-21fc-400e-8e2f-0e24265e1ee4","Duo Azure AD Sync","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Group.Read.All","AllPrincipals",,""
+"Delegated","7ad9967a-21fc-400e-8e2f-0e24265e1ee4","Duo Azure AD Sync","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read.All","AllPrincipals",,""
+"Delegated","7ad9967a-21fc-400e-8e2f-0e24265e1ee4","Duo Azure AD Sync","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.ReadWrite.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Member.Read.Hidden","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Group.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.AccessAsUser.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","MyFiles.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","AllSites.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","AllSites.Write","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","AllSites.Manage","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","AllSites.FullControl","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","MyFiles.Write","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","profile","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","email","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","openid","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Notes.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.Read.Selected","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Mail.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Calendars.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Contacts.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.Read","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Tasks.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","offline_access","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Calendars.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Contacts.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Mail.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.ReadWrite.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.ReadWrite.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.ReadWrite.AppFolder","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.ReadWrite.Selected","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Notes.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Notes.ReadWrite.All","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","MailboxSettings.ReadWrite","AllPrincipals",,""
+"Delegated","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Sites.Read.All","AllPrincipals",,""
+"Delegated","15e79e3e-9d4d-4b75-8798-714f448c6a7b","Partners Portal","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","35d2c142-c26e-462e-8fac-5d4b7478f165","Email","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","AllPrincipals",,""
+"Delegated","35d2c142-c26e-462e-8fac-5d4b7478f165","Email","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","User.Read","Principal","71e1a8e3-cb39-4ff7-9421-8a05dbba5523","David Spinazzola"
+"Delegated","35d2c142-c26e-462e-8fac-5d4b7478f165","Email","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","AllPrincipals",,""
+"Delegated","35d2c142-c26e-462e-8fac-5d4b7478f165","Email","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","AllPrincipals",,""
+"Delegated","35d2c142-c26e-462e-8fac-5d4b7478f165","Email","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","71e1a8e3-cb39-4ff7-9421-8a05dbba5523","David Spinazzola"
+"Delegated","35d2c142-c26e-462e-8fac-5d4b7478f165","Email","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","Principal","71e1a8e3-cb39-4ff7-9421-8a05dbba5523","David Spinazzola"
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","a01d19b8-cc48-4442-951f-4f83dbee9a64","Windows Azure Service Management API","user_impersonation","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ActivityFeed.Read","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ActivityFeed.ReadDlp","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ActivityReports.Read","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ActivityReports.Read","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ServiceHealth.Read","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ThreatIntelligence.Read","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ThreatIntelligence.Read","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","19ea5615-e411-412c-9c94-47832f9fdcfc","Microsoft Partner Center","user_impersonation","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","AccessReview.ReadWrite.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.AccessAsUser.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.ReadWrite.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.ReadWrite.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Organization.Read.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Reports.Read.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","UserActivity.ReadWrite.CreatedByApp","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite.All","AllPrincipals",,""
+"Delegated","17a0b79b-1755-4d53-84f9-9e84d917cdbf","ConnectWise Unite","58251e20-05a9-47a0-aa2a-b2e90647b763","Microsoft Dev Center","user_impersonation","AllPrincipals",,""
+"Delegated","3edc71ce-f612-4646-b5f0-0ae1ee8ed625","MigWiz","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","EWS.AccessAsUser.All","AllPrincipals",,""
+"Delegated","3edc71ce-f612-4646-b5f0-0ae1ee8ed625","MigWiz","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read","AllPrincipals",,""
+"Delegated","eb17ff1e-a1e8-4f7f-acb4-c2d5ba18a869","CIOTechWebAPI","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read","AllPrincipals",,""
+"Delegated","c9194b84-ff4e-408a-afd1-5d3818049405","Partner Launchpad","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","email","Principal","931b334d-57eb-49a9-b145-707298ac931b","Brittany Cerny"
+"Delegated","c9194b84-ff4e-408a-afd1-5d3818049405","Partner Launchpad","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","profile","Principal","931b334d-57eb-49a9-b145-707298ac931b","Brittany Cerny"
+"Delegated","c9194b84-ff4e-408a-afd1-5d3818049405","Partner Launchpad","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","openid","Principal","931b334d-57eb-49a9-b145-707298ac931b","Brittany Cerny"
+"Delegated","c9194b84-ff4e-408a-afd1-5d3818049405","Partner Launchpad","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read","Principal","931b334d-57eb-49a9-b145-707298ac931b","Brittany Cerny"
+"Delegated","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","AuditLog.Read.All","AllPrincipals",,""
+"Delegated","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All","AllPrincipals",,""
+"Delegated","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Reports.Read.All","AllPrincipals",,""
+"Delegated","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read","AllPrincipals",,""
+"Delegated","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All","AllPrincipals",,""
+"Application","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite.All",,,
+"Application","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.Read.All",,,
+"Application","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.ReadWrite.All",,,
+"Application","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.ReadWrite.All",,,
+"Application","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All",,,
+"Application","38b31f35-a88e-4822-b939-689ab9961366","Barracuda AzureAD Sync App - US","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Domain.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","TermStore.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","Sites.Manage.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","TermStore.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","Sites.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","Sites.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","Sites.FullControl.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","full_access_as_app",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","Mail.Read",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Mail.ReadWrite",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Device.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Domain.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","MailboxSettings.Read",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Contacts.ReadWrite",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.ReadWrite.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.Read.All",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Mail.Read",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Calendars.ReadWrite",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","MailboxSettings.ReadWrite",,,
+"Application","830f0da7-41dd-410c-8bc1-4cdf9700d793","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Contacts.Read",,,
+"Application","62eb34a0-57a6-4fad-9c4e-4119c49bad37","IT Glue Integration","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.ReadWrite.All",,,
+"Application","62eb34a0-57a6-4fad-9c4e-4119c49bad37","IT Glue Integration","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All",,,
+"Application","62eb34a0-57a6-4fad-9c4e-4119c49bad37","IT Glue Integration","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All",,,
+"Application","62eb34a0-57a6-4fad-9c4e-4119c49bad37","IT Glue Integration","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Reports.Read.All",,,
+"Application","fc565bb6-8abd-412f-a810-1b4dad54e529","Okta Microsoft Graph Client","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.Read.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","5d8507c2-80e4-4a43-a96b-ce0dea3a1972","Office 365 SharePoint Online","Sites.ReadWrite.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ActivityFeed.ReadDlp",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ServiceHealth.Read",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","d8faf315-2323-468d-8eae-1da9528b0f56","Office 365 Management APIs","ActivityFeed.Read",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","c923f01b-5eab-47ab-b29d-bf4f18f15d19","Office 365 Exchange Online","Mail.ReadWrite",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Mail.ReadWrite",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Device.ReadWrite.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","SecurityEvents.Read.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Group.Read.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.ReadWrite.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","MailboxSettings.Read",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Files.ReadWrite.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Mail.Send",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","MailboxSettings.ReadWrite",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","IdentityRiskEvent.Read.All",,,
+"Application","db1730cd-68af-461a-9451-eb7a9bd98770","Barracuda Networks","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","AuditLog.Read.All",,,
+"Application","999d92be-8b97-46d2-ada8-879bb40420ce","Partner Center Web App","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.Read.All",,,
+"Application","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.ReadWrite.All",,,
+"Application","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Directory.Read.All",,,
+"Application","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","User.Read.All",,,
+"Application","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","AuditLog.Read.All",,,
+"Application","96a1db66-f026-4008-a6fb-c249551800e4","post_man","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Reports.Read.All",,,
+"Application","7ad9967a-21fc-400e-8e2f-0e24265e1ee4","Duo Azure AD Sync","62ca8cac-7063-4a69-9686-3e2ffa2b4188","Windows Azure Active Directory","Directory.Read.All",,,
+"Application","eb17ff1e-a1e8-4f7f-acb4-c2d5ba18a869","CIOTechWebAPI","106820f7-aa24-47fc-8492-01b0e5a0bfd3","Microsoft Graph","Reports.Read.All",,,
